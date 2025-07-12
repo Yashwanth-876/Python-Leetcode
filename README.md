@@ -12,4 +12,5 @@
 | [1258-article-views-i](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2024-calculate-special-bonus](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
