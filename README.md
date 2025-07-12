@@ -2,3 +2,10 @@
 ## Resource link 
 
 - [LeetCode: Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
