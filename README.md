@@ -10,6 +10,7 @@
 | [0176-second-highest-salary](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/0595-big-countries) |
+| [1179-game-play-analysis-i](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Yashwanth-876/Python-Leetcode/tree/master/1625-group-sold-products-by-the-date) |
